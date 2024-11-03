@@ -4,6 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vendo Machine</title>
+    <style>
+        fieldset {
+            width: 500px; 
+        }
+        legend {
+            font-weight: bold;
+            padding: 0 5px; 
+        }
+    </style>
 </head>
 <body>
 
