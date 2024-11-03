@@ -78,7 +78,7 @@
                             $quantities += $quantity;
                         ?>
                         <li>
-                            <?php echo $quantity . ' ' . ($quantity > 1 ? 'pieces' : 'piece') . ' of ' . $value . ' amounting to ₱' . $cost; ?>
+                            <?php echo $quantity . ' ' . ($quantity > 1 ? 'pieces' : 'piece') . ' of ' . $size . ' ' . $value . ' amounting to ₱' . $cost; ?>
                         </li>
                     <?php } ?>
                 </ul>
