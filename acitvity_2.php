@@ -29,6 +29,5 @@
              height="<?php echo empty($imgSize) ? '10' : $imgSize; ?>%" 
              style="border:5px solid <?php echo empty($borderColor) ? '#000000' : $borderColor; ?>;">
     <?php } ?>
-
 </body>
 </html>
